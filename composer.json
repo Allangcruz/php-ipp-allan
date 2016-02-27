@@ -1,0 +1,15 @@
+{
+    "name": "allan/allan-ipp",
+    "description": "Testando sistema de impressao via web, com protocolo IPP",
+    "authors": [
+        {
+            "name": "Allan Gonçalves da Cruz",
+            "email": "allangcruz@gmail.com"
+        }
+    ],
+    "preferred-install": "stable",
+    "minimum-stability": "stable",
+    "require": {
+    	"php": ">=5.4.0"
+    }
+}

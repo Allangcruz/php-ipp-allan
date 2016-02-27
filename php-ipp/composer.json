@@ -1,0 +1,18 @@
+{
+	"name": "pigult/php-ipp",
+	"description": "This class implements Internet Printing Protocol on client side.",
+	"minimum-stability": "stable",
+	"authors": [
+		{
+			"name": "Thomas Harding",
+			"email": "thomas.harding@laposte.net"
+		},
+		{
+			"name": "Donatas Aleksandravičius",
+			"email": "donatas.aleksandravicius@pigu.lt"
+		}
+	],
+  "autoload": {
+      "psr-4": {"PHPIPP\\": "lib/"}
+  }
+}
